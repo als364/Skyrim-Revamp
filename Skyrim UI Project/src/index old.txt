@@ -1,0 +1,152 @@
+AncientNordSword.png~Ancient Nord Sword~Sword~13~12~8~N/A~N/A~Can be looted from Draugrs and found in crypts and tombs. Can be forged at the Skyforge.
+BladesSword.png~Blades Sword~Sword~300~10~11~N/A~N/A~Can be found on a weapon rack in Delphine's secret room in the Sleeping Giant Inn.
+DaedricSword.png~Daedric Sword~Sword~1250~16~14~N/A~N/A~Can be crafted at any forge in Skyrim.  It is the strongest craftable sword in Skyrim.
+DwarvenSword.png~Dwarven Sword~Sword~135~12~11~N/A~N/A~Can be forged.
+EbonySword.png~Ebony Sword~Sword~720~15~13~N/A~N/A~Can be forged.
+ElvenSword.png~Elven Sword~Sword~235~13~12~N/A~N/A~Can be forged.
+FalmerSword.png~Falmer Sword~Sword~67~18~11~N/A~N/A~Looted from Falmer.
+ForswornSword.png~Forsworn Sword~Sword~70~13~11~N/A~N/A~Dropped by Forsworn.
+GlassSword.png~Glass Sword~Sword~410~14~13~N/A~N/A~Requires rank 70 in smithing to be forged.
+ImperialSword.png~Imperial Sword~Sword~23~10~8~N/A~N/A~Dropped by Imperials.
+Iron_Sword.png~Iron Sword~Sword~25~9~8~N/A~N/A~The weakest sword in Skyrim.
+OrcishSword.png~Orcish Sword~Sword~75~11~9~N/A~N/A~Can be forged.
+Steel_Sword.png~Steel Sword~Sword~45~10~8~N/A~N/A~Can be forged.
+AncientNordWarAxe.png~Ancient Nord War Axe~War Axe~15~14~9~N/A~N/A~Looted from Draugrs and found in crypts and tombs.
+DaedricWarAxe.png~Daedric War Axe~War Axe~1500~18~15~N/A~N/A~Can be forged.
+DwarvenWarAxe.png~Dwarven War Axe~War Axe~165~14~11~N/A~N/A~Can be forged.
+EbonyWarAxe.png~Ebony War Axe~War Axe~865~17~15~N/A~N/A~Can be forged.
+ElvenWarAxe.png~Elven War Axe~War Axe~280~15~14~N/A~N/A~Can be forged.
+HonedFalmerWarAxe.png~Falmer War Axe~War Axe~82~21~12~N/A~N/A~Dropped by Falmer.
+ForswornAxe.png~Forsworn Axe~War Axe~90~15~12~N/A~N/A~Dropped by Forsworn.
+GlassWarAxe.png~Glass War Axe~War Axe~490~16~13~N/A~N/A~Can be forged.
+IronWarAxe.png~Iron War Axe~War Axe~30~11~7~N/A~N/A~Found on Bandits, can be forged.
+OrcishWarAxe.png~Orcish War Axe~War Axe~90~13~16~N/A~N/A~Can be forged.
+SteelWarAxe.png~Steel War Axe~War Axe~55~12~9~N/A~N/A~Can be forged.
+DaedricMace.png~Daedric Mace~Mace~1750~20~16~N/A~N/A~Can be forged.
+DwarvenMace.png~Dwarven Mace~Mace~190~16~12~N/A~N/A~Can be forged.
+EbonyMace.png~Ebony Mace~Mace~1000~19~16~N/A~N/A~Can be forged.
+ElvenMace.png~Elven Mace~Mace~330~17~13~N/A~N/A~Can be forged.
+GlassMace.png~Glass Mace~Mace~575~18~14~N/A~N/A~Can be forged.
+Iron_Mace.png~Iron Mace~Mace~35~13~9~N/A~N/A~Can be forged.
+OrcishMace.png~Orcish Mace~Mace~105~15~9~N/A~N/A~Can be forged.
+SteelMace.png~Steel Mace~Mace~65~14~10~N/A~N/A~Can be forged.
+BladeofWoe.png~Blade of Woe~Dagger~880~7~14~N/A~N/A~Absorb 10 points of health. Found in the remains of Astrid.
+DaedricDagger.png~Daedric Dagger~Dagger~500~6~11~N/A~N/A~Can be forged.
+DwarvenDagger.png~Dwarven Dagger~Dagger~55~3.5~7~N/A~N/A~Can be forged.
+EbonyDagger.png~Ebony Dagger~Dagger~290~5~10~N/A~N/A~Can be forged.
+ElvenDagger.png~Elven Dagger~Dagger~95~4~8~N/A~N/A~Can be forged.
+GlassDagger.png~Glass Dagger~Dagger~165~4.5~10~N/A~N/A~Can be forged.
+Iron_Dagger.png~Iron Dagger~Dagger~10~2~4~N/A~N/A~Can be forged.
+OrcishDagger.png~Orcish Dagger~Dagger~30~3~6~N/A~N/A~Can be forged.
+SteelDagger.png~Steel Dagger~Dagger~18~2.5~5~N/A~N/A~Can be forged.
+Ancient_Nord_Greatsword.png~Greatsword~35~18~17~N/A~N/A~Looted from Draugrs.
+DaedricGreatsword.png~Daedric Greatsword~Greatsword~2500~23~24~N/A~N/A~Can be forged, found in the chest in Halldir's Cairn.
+DwarvenGreatsword.png~Dwarven Greatsword~Greatsword~270~19~19~N/A~N/A~Can be forged.
+EbonyGreatsword.png~Ebony Greatsword~Greatsword~1440~22~22~N/A~N/A~Can be forged.
+ElvenGreatsword.png~Elven Greatsword~Greatsword~470~20~20~N/A~N/A~Can be forged, can be looted from Ghunzul.
+GlassGreatsword.png~Glass Greatsword~Greatsword~820~22~21~N/A~N/A~Can be forged.
+Iron_Greatsword.png~Iron Greatsword~Greatsword~50~16~15~N/A~N/A~Can be forged.
+OrcishGreatsword.png~Orcish Greatsword~Greatsword~75~18~18~N/A~N/A~Can be forged.
+SilverGreatsword.png~Silver Greatsword~Greatsword~160~12~9~N/A~N/A~Especially effective against the undead.  Dropped by Silver Hands.
+SteelGreatsword.png~Steel Greatsword~Greatsword~90~17~17~N/A~N/A~Can be forged.
+AncientNordBattleAxe.png~Ancient Nord Battleaxe~Battleaxe~28~22~18~N/A~N/A~Dropped by Draugrs.
+DaedricBattleaxe.png~Daedric Battleaxe~Battleaxe~2750~27~25~N/A~N/A~Can be forged.
+DwarvenBattleaxe.png~Dwarven Battleaxe~Battleaxe~300~23~20~N/A~N/A~Can be forged.
+EbonyBattleaxe.png~Ebony Battleaxe~Battleaxe~1585~26~23~N/A~N/A~Can be forged, or looted from Draugr Deathlords, among others.
+ElvenBattleaxe.png~Elven Battleaxe~Battleaxe~520~24~21~N/A~N/A~Can be forged, or found in the locked cell in the sewers beneath Goldenglow Estate.
+GlassBattleaxe.png~Glass Battleaxe~Battleaxe~900~25~22~N/A~N/A~Can be forged.
+Orcish_Battleaxe.png~Orcish Battleaxe~Battleaxe~165~25~19~N/A~N/A~Can be forged.
+TheRuefulAxe.png~The Rueful Axe~Battleaxe~1183~10~24~N/A~N/A~Looted from Sebastian Lort in Rimerock Burrow.
+Wuuthrad.png~Wuuthrad~Battleaxe~2000~25~28~N/A~N/A~Belongs to Ysgramor. Especially deadly to elves.
+DaedricWarhammer.png~Daedric Warhammer~Warhammer~4000~31~27~N/A~N/A~Can be forged.
+EbonyWarhammer.png~Ebony Warhammer~Warhammer~1725~30~25~N/A~N/A~Can be forged.
+ElvenWarhammer.png~Elven Warhammer~Warhammer~565~28~26~N/A~N/A~Can be forged.
+Iron_Warhammer.png~Iron Warhammer~Warhammer~60~24~18~N/A~N/A~Can be forged.
+Orcish_Warhammer.png~Orcish Warhammer~Warhammer~180~26~21~~N/A~N/A~Can be forged.
+SteelWarhammer.png~Steel Warhammer~Warhammer~110~25~20~N/A~N/A~Can be forged.
+Volendrung.png~Volendrung~Warhammer~1842~26~25~N/A~N/A~Obtained from Malacath after Shagrol's Warhammer is placed on the altar in Largashbur.
+AncientNordBow.png~Ancient Nord Bow~Bow~45~12~9~N/A~N/A~Usually used by draugrs and skeletons, found in tombs and caves.
+DaedricBow.png~Daedric Bow~Bow~2500~18~19~N/A~N/A~Can be forged.
+DrainspellBow.png~Drainspell Bow~458~6~14~N/A~N/A~N/A
+EbonyBow.png~Ebony Bow~Bow~1440~16~18~N/A~N/A~Can be forged.
+Elven_Bow.png~Elven Bow~Bow~470~12~13~~N/A~N/A~Can be forged with level 30 smithing skill.
+ForswornBow.png~Forsworn Bow~Bow~145~11~13~N/A~N/A~Dropped by Forsworn.
+HuntingBow.png~Hunting Bow~Bow~50~7~7~N/A~N/A~Can only be used in conjunction with arrows. Cannot be forged.
+Orcish_Bow.png~Orcish Bow~Bow~150~9~14~N/A~N/A~Can be forged.
+AncientNordArrow.png~Ancient Nord Arrow~Arrows~1~0~10~N/A~N/A~Dropped by draugr.
+DaedricArrow.png~Daedric Arrow~Arrows~8~0~24~N/A~N/A~Found on Centurions.
+ElvenArrow.png~Elven Arrow~Arrows~5~0~16~N/A~N/A~N/A
+RustyArrow.png~Rusty Arrow~Arrows~0~0~4~N/A~N/A~Found in crypts.
+Steel_Arrow.png~Steel Arrow~Arrows~2~0~10~N/A~N/A~Used by Imperial Guards.
+Hammer.png~Hammer~Tool~1~3~N/A~N/A~N/A~N/A
+Pickaxe.png~Pickaxe~Tool~5~10~12~N/A~N/A~Used for smithing and mining.
+AncientNordArmor.png~Ancient Nord Armor~Heavy Armor~125~28~N/A~25~N/A~Worn by Aela the Huntress, can be looted from Dragon Cultists.
+AncientNordBoots.png~Ancient Nord Boots~Heavy Armor~25~5~N/A~12~N/A~Dropped by Draugrs.
+AncientNordGauntlets.png~Ancient Nord Gauntlets~Heavy Armor~25~4~N/A~12~N/A~N/A
+AncientNordHelmet.png~Ancient Nord Helmet~Heavy Armor~60~4~N/A~17~N/A~Dropped by Draugrs.
+DaedricArmor.png~Daedric Armor~Heavy Armor~3200~50~N/A~49~N/A~Can be forged, is the highest grade of heavy armor.
+DaedricBoots.png~Daedric Boots~Heavy Armor~625~10~N/A~18~N/A~Can be forged.
+DaedricHelmet.png~Daedric Helmet~Heavy Armor~1600~15~N/A~23~N/A~Can be forged.
+DaedricShield.png~Daedric Shield~Heavy Armor~1600~15~N/A~36~N/A~Can be forged.
+DragonplateArmor.png~Dragonplate Armor~Heavy Armor~2125~40~N/A~46~N/A~Can be forged.
+DragonplateBoots.png~Dragonplate Boots~Heavy Armor~425~8~N/A~17~N/A~Can be forged.
+DragonplateGauntlets.png~Dragonplate Gauntlets~Heavy Armor~425~8~N/A~17~N/A~Can be forged.
+DragonplateHelmet.png~Dragonplate Helmet~Heavy Armor~1050~8~N/A~22~N/A~Can be forged.
+DragonplateShield.png~Dragonplate Shield~Heavy Armor~1050~15~N/A~34~N/A~Can be forged.
+Dwarven_Armor.png~Dwarven Armor~Heavy Armor~400~45~N/A~34~N/A~Can be forged.
+DwarvenShield.png~Dwarven Shield~Heavy Armor~225~12~N/A~26~N/A~Can be forged.
+EbonyArmor.png~Ebony Armor~Heavy Armor~1500~38~N/A~43~N/A~Can be forged.
+EbonyBoots.png~Ebony Boots~Heavy Armor~275~7~N/A~16~N/A~Can be forged.
+EbonyGauntlets.png~Ebony Gauntlets~Heavy Armor~275~7~N/A~16~N/A~Can be forged.
+EbonyHelmet.png~Ebony Helmet~Heavy Armor~750~10~N/A~21~N/A~Can be forged.
+EbonyMail.png~Ebony Mail~Heavy Armor~5000~28~N/A~51~N/A~Looted from Boethiah's former champion.
+EbonyShield.png~Ebony Shield~Heavy Armor~750~14~N/A~32~N/A~Can be forged.
+HelmofWinterhold.png~Helm of Winterhold~Heavy Armor~125~5~N/A~19~N/A~N/A
+HelmofYngol.png~Helm of Yngol~Heavy Armor~565~8~N/A~21~N/A~Found at Yngol Barrow.
+HevnoraakMask.png~Hevnoraak Mask~Heavy Armor~891~9~N/A~26~N/A~Gives immunity to disease and poisons.
+JaggedCrown.png~Jagged Crown~Heavy Armor~5000~9~N/A~23~N/A~Can be worn simultaneously with a circlet or Dragon Priest Mask.
+OrcishArmor.png~Orcish Armor~Heavy Armor~1000~35~N/A~40~N/A~Can be forged.
+OrcishBoots.png~Orcish Boots~Heavy Armor~200~7~N/A~15~N/A~Can be forged.
+OrcishGauntlets.png~Orcish Gauntlets~Heavy Armor~200~7~N/A~15~N/A~Can be forged.
+OrcishHelmet.png~Orcish Helmet~Heavy Armor~500~8~N/A~20~N/A~Can be forged.
+OrcishShield.png~Orcish Shield~Heavy Armor~500~14~N/A~30~N/A~Can be forged.
+DragonscaleArmor.png~Dragonscale Armor~Light Armor~1500~10~N/A~41~N/A~Can be forged.
+DragonscaleBoots.png~Dragonscale Boots~Light Armor~300~3~N/A~12~N/A~Can be forged.
+DragonscaleGauntlets.png~Dragonscale Gauntlets~Light Armor~300~3~N/A~12~N/A~Can be forged.
+DragonscaleHelmet.png~Dragonscale Helmet~Light Armor~750~4~N/A~17~N/A~Can be forged.
+DragonscaleShield.png~Dragonscale Shield~Light Armor~750~6~N/A~29~N/A~Can be forged.
+ElvenArmor.png~Elven Armor~Light Armor~225~4~N/A~35~N/A~Can be forged.
+ElvenBoots.png~Elven Boots~Light Armor~45~1~N/A~10~N/A~Can be forged.
+ElvenGauntlets.png~Elven Gauntlets~Light Armor~45~1~N/A~10~N/A~Can be forged.
+ElvenHelmet.png~Elven Helmet~Light Armor~110~2~N/A~13~N/A~Can be forged.
+ElvenShield.png~Elven Shield~Light Armor~115~4~N/A~21~N/A~Can be forged.
+GlassArmor.png~Glass Armor~Light Armor~900~7~N/A~38~N/A~Can be forged.
+GlassBoots.png~Glass Boots~Light Armor~190~2~N/A~11~N/A~Can be forged.
+GlassGauntlets.png~Glass Gauntlets~Light Armor~190~2~N/A~11~N/A~Can be forged.
+GlassHelmet.png~Glass Helmet~Light Armor~450~2~N/A~19~N/A~Can be forged.
+GlassShield.png~Glass Shield~Light Armor~450~6~N/A~27~N/A~Can be forged.
+LeatherArmor.png~Leather Armor~Light Armor~125~6~N/A~29~N/A~Can be forged.
+LeatherBoots.png~Leather Boots~Light Armor~25~2~N/A~7~N/A~Can be forged.
+LeatherBracers.png~Leather Bracers~Light Armor~25~2~N/A~7~N/A~Can be forged.
+LeatherHelmet.png~Leather Helmet~Light Armor~60~2~N/A~13~N/A~Can be forged.
+MovarthsBoots.png~Movarth's Boots~Light Armor~792~1~N/A~6~N/A~Improves sneaking.
+PenitusOculatusArmor.png~Penitus Oculatus Armor~Light Armor~75~6~N/A~28~N/A~Looted from Penitus Oculatus agents in Dragon Bridge.
+SaviorsHide.png~Savior's Hide~Light Armor~2679~6~N/A~32~N/A~Increases Magic Resistance and Poison Resistance.
+ScaledArmor.png~Scaled Armor~Light Armor~350~6~N/A~32~N/A~Can be forged.
+ScaledBoots.png~Scaled Boots~Light Armor~70~2~N/A~9~N/A~Can be forged.
+ScaledBracers.png~Scaled Bracers~Light Armor~70~2~N/A~11~N/A~Can be forged.
+ScaledHelmet.png~Scaled Helmet~Light Armor~175~2~N/A~16~N/A~Can be forged.
+ShroudedArmor.png~Shrouded Armor~Light Armor~373~1~N/A~35~N/A~Increases poison resistance.
+ShroudedCowl.png~Shrouded Cowl~Light Armor~677~2~N/A~16~N/A~N/A
+AlikrHood.png~Alik'r Hood~Clothes~2~.5~N/A~0~N/A~N/A
+ChefsHat.png~Chef's Hat~Clothes~1~.5~N/A~0~N/A~N/A
+EmperorsRobes.png~Emperor's Robes~Clothes~100~1~N/A~0~N/A~N/A
+AmuletofArkay.png~Amulet of Arkay~Jewelry~114~1~N/A~0~Health~N/A
+AmuletofKynareth.png~Amulet of Kynareth~Jewelry~96~1~N/A~0~Stamina~N/A
+AmuletofTalos.png~Amulet of Talos~Jewelry~25~1~N/A~0~Shouts~N/A
+CharmedNecklace.png~Charmed Necklace~Jewelry~790~.5~N/A~0~Carrying Capacity~Given by Revelers
+CursedRingofHircine.png~Cursed Ring of Hircine~Jewelry~50~.3~N/A~0~N/A~Randomly causes the wearer to become a werewolf.
+KynesToken.png~Kyne's Token~Jewelry~325~1~N/A~0~Damage~Damage from animals reduced, bows do more damage.
+MuirisRing.png~Muiri's Ring~Jewelry~434~.3~N/A~0~Potions~N/A
+NecklaceofWarmth.png~Necklace of Warmth~Jewelry~1267~.5~N/A~0~Frost Resistance~N/A
+StrangeAmulet.png~Necromancer Amulet~Jewelry~2635~0~N/A~0~Conjuration~N/A
